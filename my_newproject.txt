@@ -1,0 +1,3 @@
+hi this is my new project
+i am working from starting. i will use new repository.
+i am creating new repository through CLI
